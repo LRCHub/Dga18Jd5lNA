@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Crying Emoji",
+  "base_artist": "Jinmenusagi",
+  "createdAt": "2026-03-23T14:30:43.872011Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crying Emoji",
+      "artist": "Jinmenusagi",
+      "has_synced": false,
+      "path": "select/pl_01_Crying_Emoji_Jinmenusagi.txt"
+    }
+  ]
+}
